@@ -1,0 +1,5 @@
+.vscode/*
+*.exe
+**/.vs/
+**/__pycache__/
+**/*.csv
